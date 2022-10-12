@@ -1,2 +1,2 @@
 # First-Project
-This is my first project, web-site
+This is my first project, web-site.
